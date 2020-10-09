@@ -14,6 +14,8 @@ In this episode... we will enter the exciting world of...
 
 ## __Yeah... this hat is that bad! :(__ ##
 
+Update. Also do not leave your batteries in when its off for a couple of months. I have destroyed one of the boards that way...
+
 ## __You bought it just to be able to do that...__ ##
 
 ## __And now I am warning you NOT to do that...__ ##
