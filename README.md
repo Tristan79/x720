@@ -10,11 +10,15 @@ In this episode... we will enter the exciting world of...
  * Why power management of the hat using GPIO can not be used
  * Bonding two network cards 
  
+## __WARNING: WHERE IS THE EXTRA LAN ADAPTER GONE??? WELL YOU REBOOTED... AND NOW ITS GONE, YES IT WILL NOT SURVIVE A REBOOT, YOU NEED TO POWER OFF...
+
+## __WARNING: THE X725 HAS THE SAME PROBLEMS!!!!
+
+## __WARNING: LEAVING THE BATTERIES IN WHILE UNPLUGGED FOR POWER WILL DAMAGE YOUR HAT AFTER A WHILE...
+
 ## __WARNING: CUTTING THE MAIN POWER TO THE HAT CAN DAMAGE YOUR HAT AND YOUR PI IF BATTERIES ARE INSTALLED!!! NEVER PULL THE ADAPTER FROM THE AC. AT LEAST WITH TESTING, PULL THE PLUG AT THE PI END!!!__ ## 
 
 ## __Yeah... this hat is that bad! :(__ ##
-
-Update. Also do not leave your batteries in when its off for a couple of months. I have destroyed one of the boards that way...
 
 ## __You bought it just to be able to do that...__ ##
 
