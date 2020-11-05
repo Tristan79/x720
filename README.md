@@ -1,4 +1,4 @@
-# Rasberry Pi suptronics/geekworm x720 Hat (x700/x705/x725/x730/x735/x750/Maxim MAX17043) #
+# Rasberry Pi suptronics/geekworm x720/x725 Hat (x700/x705/x725/x730/x735/x750/Maxim MAX17043) #
  
 In this episode... we will enter the exciting world of...
 
