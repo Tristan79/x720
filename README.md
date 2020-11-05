@@ -12,7 +12,7 @@ In this episode... we will enter the exciting world of...
  
 ## __WARNING: DO NOT BUY THIS__ ## 
 
-## __WARNING: WHERE IS THE EXTRA LAN ADAPTER GONE??? WELL YOU REBOOTED... AND NOW ITS GONE, YES IT WILL NOT SURVIVE A REBOOT, YOU NEED TO POWER OFF...__ ## 
+## __WARNING: WHERE IS THE EXTRA LAN ADAPTER GONE??? WELL YOU REBOOTED... AND NOW ITS GONE, YES IT WILL NOT SURVIVE A REBOOT, YOU NEED TO POWER OFF AND REMOVE THE POWER CABLE...__ ## 
 
 ## __WARNING: THE X725 HAT HAS THE SAME PROBLEMS!!!!__ ## 
 
@@ -20,7 +20,7 @@ In this episode... we will enter the exciting world of...
 
 ## __WARNING: CUTTING THE MAIN POWER TO THE HAT CAN DAMAGE YOUR HAT AND YOUR PI IF BATTERIES ARE INSTALLED!!! NEVER PULL THE ADAPTER FROM THE AC. AT LEAST WITH TESTING, PULL THE PLUG AT THE PI END!!!__ ## 
 
-## __Yeah... this hat is that bad! :(__ ##
+## __Yeah... this hat is that bad! :( A waste of money... __ ##
 
 ## __You bought it just to be able to do that...__ ##
 
